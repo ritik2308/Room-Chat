@@ -18,4 +18,4 @@ To run the app locally, install npm.
 * $ npm start
 
 # Check App
-https://chat-app-paul.herokuapp.com/
+https://room-chat-ritik.herokuapp.com/
